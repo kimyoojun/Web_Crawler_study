@@ -9,3 +9,12 @@ pip install requests
 ```
 ### 설명
 웹 서버와 통신하기 위한 가장 널리 쓰이는 HTTP 라이브러리
+
+bs4(BeautifulSoup) 라이브러리
+-------------
+### 설치 방법
+```
+pip install bs4
+```
+### 설명
+HTML 및 XML 문서에서 원하는 데이터를 추출(파싱)하는 웹 스크래핑 라이브러리
